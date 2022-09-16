@@ -18,7 +18,7 @@ func TestCalc(t *testing.T) {
 			want: 176,
 		},
 		{
-			name: "example 1",
+			name: "example 2",
 			args: args{s: "9999999999"},
 			want: 12656242944,
 		},
